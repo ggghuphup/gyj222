@@ -26,4 +26,11 @@
 * HA高可用数据库
 	* keep-Alive心跳保洁机制
 		* 设置定时时间
-		* 设置
+
+
+
+
+* 设置
+
+
+![图片](https://sm.ms/image/cYHGLEifpKXh4qJ)
